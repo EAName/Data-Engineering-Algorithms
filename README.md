@@ -22,8 +22,6 @@ Northwestern University M.S. in Data Science (Data Engineering specialization): 
 - **Complexity analysis:** Big O notation for each algorithm (e.g., O(n²), O(n log n), O(log n), O(n+e), O(n³)); discussion of scalability implications for data-intensive systems
 - **Empirical benchmarking:** controlled random seeds, `time` / `datetime` timing, `pandas` summary tables, and `matplotlib` plots of input size vs. execution time
 
-**Out of scope for this repo:** cloud platforms, container orchestration, and batch/streaming pipeline frameworks. Those topics are covered in companion coursework repositories: **Data-Miners** (ETL pipeline design), **Systems-Engineering** (architecture and lifecycle), and **Analytics-Applications-Engineering** (analytics application engineering).
-
 ---
 
 ## 3. Stack
